@@ -1,0 +1,7 @@
+{
+  "name": "LepiScan: AI Butterfly Identifier",
+  "description": "An AI-powered tool to identify butterfly species from an image. Upload a photo of a butterfly, and the app will tell you its species and provide an interesting fact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
